@@ -1,15 +1,17 @@
 import java.util.Scanner;
  //this allows the scanner to work 
 class Main {
+  
   public static void main(String[] args) {
  
-   Scanner scan = new Scanner(System.in);
+    Scanner scan = new Scanner(System.in);
 //scanner is going to ask two questions   
     System.out.println("choose a number between 1 and 5");
-   int number = scan.nextInt();
+    int number = scan.nextInt();
+   
     System.out.println("choose a number that adds to equal 12 (so like what + the number you choose = 12");
-   int number2 = scan.nextInt();
-//scanner is going to keep the answers of those questions 
+    int number2 = scan.nextInt();
+ 
     while(correctAnswer = 12 ){
       System.out.println("The answer" + correctAnswer + "is  correct because 8 + 4 = 12");
       correctAnswer++;
