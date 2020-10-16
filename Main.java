@@ -1,5 +1,5 @@
 import java.util.Scanner;
- //this allows the scanner to work 
+//this allows the scanner to work 
 class Main {
   
   public static void main(String[] args) {
@@ -11,7 +11,7 @@ class Main {
    
     System.out.println("choose a number that adds to equal 12 (so like what number + the number you choose = 12");
     int number2 = scan.nextInt();
-//below is the while statement 
+//below is the while loop
     int correctAnswer = 12;
 
     while(correctAnswer <= 5 ){
