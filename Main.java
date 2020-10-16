@@ -11,7 +11,7 @@ class Main {
    
     System.out.println("choose a number that adds to equal 12 (so like what number + the number you choose = 12");
     int number2 = scan.nextInt();
- 
+//below is the while statement 
     int correctAnswer = 12;
 
     while(correctAnswer <= 5 ){
