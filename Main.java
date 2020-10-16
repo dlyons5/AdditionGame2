@@ -9,19 +9,19 @@ class Main {
     System.out.println("choose a number between 1 and 5");
     int number = scan.nextInt();
    
-    System.out.println("choose a number that adds to equal 12 (so like what + the number you choose = 12");
+    System.out.println("choose a number that adds to equal 12 (so like what number + the number you choose = 12");
     int number2 = scan.nextInt();
  
     int correctAnswer = 12;
 
     while(correctAnswer <= 5 ){
-      System.out.println("The answer" + correctAnswer + "is  correct because 8 + 4 = 12");
+      System.out.println("The answer" + correctAnswer + "is  correct because it equals 12");
       correctAnswer++;
     }
     
-    System.out.print("That is why the answer is 4");
-//int will decide if the answer is correct or not 
+    System.out.print("That is why 12 - ? = the number you chose, so it is");
 
+//int will decide if the answer is correct or not 
     int a = 1;
     int b = 2;
     int c = 3;
