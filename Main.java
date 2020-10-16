@@ -30,7 +30,7 @@ if (a <= 5 && e > 1)
     else
     {
         System.out.println(" thats the wrong answer ");
-//if the answer is correct, the code will print out correct, if the answer is wrong, the code will print out incorrect       
+//if the answer is correct, the code will print out correct, if the answer is wrong, the code will print out incorrect    
     }
   }
 }
