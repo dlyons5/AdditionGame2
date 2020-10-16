@@ -12,7 +12,9 @@ class Main {
     System.out.println("choose a number that adds to equal 12 (so like what + the number you choose = 12");
     int number2 = scan.nextInt();
  
-    while(correctAnswer = 12 ){
+    int correctAnswer = 12;
+
+    while(correctAnswer <= 5 ){
       System.out.println("The answer" + correctAnswer + "is  correct because 8 + 4 = 12");
       correctAnswer++;
     }
