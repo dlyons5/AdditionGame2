@@ -1,5 +1,5 @@
 import java.util.Scanner;
- //this allows the scanner to scan 
+ //this allows the scanner to work 
 class Main {
   public static void main(String[] args) {
  
