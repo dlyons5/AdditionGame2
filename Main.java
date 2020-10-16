@@ -19,13 +19,14 @@ class Main {
     
     System.out.print("That is why the answer is 4");
 //int will decide if the answer is correct or not 
-int a = 1;
-int b = 2;
-int c = 3;
-int d = 4;
-int e = 5;
 
-if (a <= 5 && e > 1)
+    int a = 1;
+    int b = 2;
+    int c = 3;
+    int d = 4;
+    int e = 5;
+
+    if (a <= 5 && e > 1)
     {
         System.out.println(" correct ");
     }
