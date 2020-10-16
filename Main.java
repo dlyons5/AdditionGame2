@@ -11,9 +11,8 @@ class Main {
    int number2 = scan.nextInt();
 //scanner is going to keep the answers of those questions 
   while(correctAnswer >= 1 && <= 5 ){
-
-     System.out.println("The answer" + correctAnswer + "is correct because 8 + 4 = 12");
-     correctAnswer++;
+    System.out.println("The answer" + correctAnswer + "is correct because 8 + 4 = 12");
+    correctAnswer++;
      }
     
      System.out.print("That is why the answer is 4");
