@@ -10,12 +10,12 @@ class Main {
     System.out.println("choose a number that adds to equal 12 (so like what + the number you choose = 12");
    int number2 = scan.nextInt();
 //scanner is going to keep the answers of those questions 
-  while(correctAnswer >= 1 && <= 5 ){
-    System.out.println("The answer" + correctAnswer + "is correct because 8 + 4 = 12");
-    correctAnswer++;
-     }
+    while(correctAnswer = 12 ){
+      System.out.println("The answer" + correctAnswer + "is  correct because 8 + 4 = 12");
+      correctAnswer++;
+    }
     
-     System.out.print("That is why the answer is 4");
+    System.out.print("That is why the answer is 4");
 //int will decide if the answer is correct or not 
 int a = 1;
 int b = 2;
