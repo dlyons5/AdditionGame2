@@ -34,7 +34,7 @@ class Main {
     }
     else
     {
-        System.out.println(" thats the wrong answer ");
+        System.out.println(" the wrong answer ");
 //if the answer is correct, the code will print out correct, if the answer is wrong, the code will print out incorrect    
     }
   }
